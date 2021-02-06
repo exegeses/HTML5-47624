@@ -7,3 +7,10 @@
 >Código 47624 |  
 >sensei: Marcos Pinardi |  
 
+
+## Definición: 
+
+>Es un lenguaje de programación para crear páginas web. 
+>Es un lenguaje de marcado (poque cada instrucción es una marca).
+>A las instrucciones les llamamos elementos o etiquetas. 
+
