@@ -26,3 +26,27 @@
 	Sublime Text  https://www.sublimetext.com/   
 	Visual Stucio Code. https://code.visualstudio.com/
 
+## Sintáxis
+
+>La sintáxis de HTML corresponde a un sistema de contenedores	
+
+	<elemento>
+		objeto
+	</elemento>
+
+	<elemento>
+		<elemento>
+			objeto
+		</elemento>
+	</elemento>
+
+> Nota: en HTML todos son contenedores, EXCEPTO las interrupciones.
+
+
+## Fórmula
+
+    <elemento atributo="valor">
+    	objeto
+	</elemento>
+
+
