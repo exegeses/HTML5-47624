@@ -4,6 +4,8 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Página de inicio</title>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
@@ -20,7 +22,20 @@
 
 		<h1>Formulario de contacto</h1>
 
-		<form action=""></form>
+		<form action="contacto.php" method="post">
+
+			Nombre: 
+			<input type="text" name="nombre">
+			<br>
+			Email: <br>
+			<input type="email" name="email">
+			<br>
+			Comentarios: <br>
+			<textarea name="comentarios"></textarea>
+			<br>
+			<button>Enviar</button>
+
+		</form>
 
 
 	</main>
